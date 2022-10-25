@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family:"reg";
+    src: url(../fonts/Rubik-Regular.ttf);
+    width: 400px;
+}
+@font-face {
+    font-family: "med";
+    src: url(../fonts/Rubik-Medium.ttf);
+    width:500px
+}
+@font-face {
+    font-family: "bol";
+    src: url(../fonts/Rubik-Bold.ttf);
+    width: 700px;
+}
